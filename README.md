@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charllohw
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with other software developers on various projects 
 - 📫 How to reach me, 0759906077 or 0736451148
                       muasyaroggers@gmail.com
 <!---
